@@ -1,0 +1,14 @@
+google-generativeai
+python-dotenv
+PyPDF2
+flask
+langchain
+transformers
+streamlit
+requests
+langchain
+pinecone-client
+torch
+tiktoken
+sentencepiece
+
